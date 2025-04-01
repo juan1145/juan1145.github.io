@@ -5,7 +5,7 @@ Bienvenido a mi perfil de GitHub. Soy un **profesional en tecnología de la info
 ## 📍 Información personal
 - **Ubicación:** Bogotá, Colombia
 - **Correo Electrónico:** juanfelipefega@gmail.com
-- **LinkedIn:** [juan1145](https://www.linkedin.com/in/enzofnc)
+- **LinkedIn:** [Juan Felipe Feo Garzón](https://www.linkedin.com/in/enzofnc)
 
 ## 💻 Áreas de Especialización
 - **Soporte Técnico**: Con experiencia en la resolución de problemas en sistemas operativos **Windows** y **Linux**, así como en la instalación, configuración y mantenimiento de hardware y software.
