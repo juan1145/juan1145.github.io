@@ -36,16 +36,6 @@ Bienvenido a mi perfil de GitHub. Soy un **profesional en tecnología de la info
 - **Redes y Seguridad**: VPN, Diagnóstico de Vulnerabilidades
 - **Office 365**: Gestión de Cuentas y Licencias
 
-## 🌐 Contribuciones y Proyectos
-Aquí encontrarás una variedad de proyectos relacionados con:
-- **Automatización de tareas** de soporte IT.
-- **Análisis de vulnerabilidades** y **seguridad en redes**.
-- **Documentación** sobre procedimientos y mejores prácticas en TI.
-
-## 📂 Repositorios Destacados
-1. **[Proyecto de seguridad](#)**: Análisis y mitigación de vulnerabilidades en redes locales.
-2. **[Automatización de soporte IT](#)**: Scripts y herramientas para resolver incidencias de manera eficiente.
-
 ## 📫 Contáctame
 Si tienes alguna pregunta o deseas colaborar en proyectos de ciberseguridad y soporte IT, no dudes en contactarme a través de [mi LinkedIn](https://www.linkedin.com/in/enzofnc).
 
